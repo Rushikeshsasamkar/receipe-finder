@@ -1,6 +1,5 @@
 # Recipe Finder React Application
 
-![App Screenshot](screenshot.png)
 
 ## Overview
 
@@ -17,6 +16,10 @@ The Recipe Finder React Application is a web-based tool for searching and explor
 
 - React: A JavaScript library for building user interfaces.
 - [Add other technologies used]
+
+# App Screenshot
+![image](https://github.com/Rushikeshsasamkar/receipe-finder/assets/44942941/068bdec1-4ed7-4c70-9736-0d8771e60e34)
+
 
 ## Getting Started
 
